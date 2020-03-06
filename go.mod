@@ -1,4 +1,4 @@
-module github.com/memory1/gomodetest
+module github.com/memory1/gomodtest
 
 go 1.12
 
