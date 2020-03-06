@@ -1,4 +1,4 @@
-package gomodetest
+package gomodtest
 
 import (
 	"github.com/stretchr/testify/assert"

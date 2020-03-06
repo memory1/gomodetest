@@ -1,4 +1,4 @@
-package gomodetest
+package gomodtest
 
 type Amount uint
 type LengthUnit uint
